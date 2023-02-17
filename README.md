@@ -4,7 +4,9 @@ I'm an aspiring software engineer based in Singapore.
 
 My goal is to make life simpler and enjoyable through technology.
 
-I have been a Vim user for more than 5 years!
+I find fulfilment in developing web apps that people love!
+
+Download a copy of my resume <a href="https://github.com/rickkoh/rickkoh/raw/main/rickkoh-resume-updated-170223.pdf">here</a>
 
 # ⚒️ Favourite technologies
 
