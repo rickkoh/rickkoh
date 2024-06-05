@@ -6,7 +6,7 @@ My goal is to make life simpler and enjoyable through technology.
 
 I find fulfilment in developing web apps that people love!
 
-Download a copy of my resume <a href="https://github.com/rickkoh/rickkoh/raw/main/rickkoh-resume-updated-170223.pdf">here</a>
+Download a copy of my resume <a href="https://rickkoh.com/rickkohresume.pdf">here</a>
 
 # ⚒️ Favourite technologies
 
